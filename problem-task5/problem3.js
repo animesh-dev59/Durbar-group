@@ -6,3 +6,4 @@ function generateProfileCard(user) {
 
     return `${name} | ${city} | followers: ${followers}`;
 }
+
